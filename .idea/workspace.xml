@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb0e0baf-ef49-4e27-a1d2-2dbb346b1775" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -18,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="73" column="156" selection-start-line="73" selection-start-column="156" selection-end-line="73" selection-end-column="156" />
+            <state relative-caret-position="-36">
+              <caret line="122" column="62" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -234,7 +233,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="halaman masbie" />
-    <option name="LAST_COMMIT_MESSAGE" value="halaman masbie" />
+    <MESSAGE value="kontak wa" />
+    <MESSAGE value="edit footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit footer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -253,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="73" column="156" selection-start-line="73" selection-start-column="156" selection-end-line="73" selection-end-column="156" />
+        <state relative-caret-position="-36">
+          <caret line="122" column="62" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="62" />
         </state>
       </provider>
     </entry>
